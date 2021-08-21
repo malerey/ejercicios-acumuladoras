@@ -8,7 +8,7 @@ Hacer un codigo que recorra el array `numeros` y muestre en consola la suma de t
 
 Dado el anterior array de nombres, hacer un codigo que recorra todos los nombres y muestre en consola el mensaje 
 
-```Ana - Elsa - Olaf - Sven - Hans``` (con guiones)
+```Ana - Elsa - Olaf - Sven - Hans - ``` (con guiones)
 
 3) Dado el mismo array, hacer un codigo que muestre en consola el siguiente mensaje: 
  
